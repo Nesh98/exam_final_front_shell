@@ -1,0 +1,1 @@
+dossier_parent | cut -d ',' -f4 > mail.csv
